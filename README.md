@@ -23,4 +23,7 @@ This is the latest source code of **FEDORA** for KDD-2023. If you find that it i
 
 ## Reference
 Some codes of **FEDORA** are adapted from the following baselines.
+
 LG-FedAvg: https://github.com/pliang279/LG-FedAvg
+
+pFedHN: https://github.com/AvivSham/pFedHN
