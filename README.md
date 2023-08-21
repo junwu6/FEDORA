@@ -1,5 +1,5 @@
 # FEDORA
-An implementation for "Personalized Federated Learning with Parameter Propagation" (KDD'23). [[Paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599464?casa_token=iNEG1gXvM9MAAAAA:hEVl21M1Vlh3ZJVTg-iaJZnUcx3RsVX_OmZ4oVPQ3nSZ1TVyQMWtnYT7glRgaIGGQY3bG93-lpnL)
+An implementation for "[Personalized Federated Learning with Parameter Propagation](https://dl.acm.org/doi/abs/10.1145/3580305.3599464?casa_token=iNEG1gXvM9MAAAAA:hEVl21M1Vlh3ZJVTg-iaJZnUcx3RsVX_OmZ4oVPQ3nSZ1TVyQMWtnYT7glRgaIGGQY3bG93-lpnL)" (KDD'23).
 
 ## Environment Requirements
 The code has been tested under Python 3.7.4. The required packages are as follows:
