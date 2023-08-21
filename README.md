@@ -2,11 +2,11 @@
 An implementation for "Personalized Federated Learning with Parameter Propagation" (KDD'23). [[Paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599464?casa_token=iNEG1gXvM9MAAAAA:hEVl21M1Vlh3ZJVTg-iaJZnUcx3RsVX_OmZ4oVPQ3nSZ1TVyQMWtnYT7glRgaIGGQY3bG93-lpnL) [[Slides]]
 
 ## Environment Requirements
-The code has been tested under Python 3.6.5. The required packages are as follows:
-* numpy
-* torch
-* torchvision
-* dgl
+The code has been tested under Python 3.7.4. The required packages are as follows:
+* numpy==1.21.6
+* torch==1.13.1+cu117
+* torchvision==0.14.1+cu117
+* tqdm==4.66.1
 
 ## Acknowledgement
 This is the latest source code of **FEDORA** for KDD-2023. If you find that it is helpful for your research, please consider citing our paper:
