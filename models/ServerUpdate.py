@@ -13,4 +13,3 @@ def ServerUpdate(w):
             w_avg[k] += w[i][0][k] * w[i][1] / num_batches
     return w_avg
 
-
